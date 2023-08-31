@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ricardo-H
 - 👀 I’m interested in coding and sports
-- 🌱 I’m currently learning Python languages
+- 🌱 I’m currently learning deepling learning
 - 💞️ I’m looking to collaborate on learning languages
-- 📫 How to reach me 583628125@qq.com
+- 📫 How to reach me ricardo.hyl666@gmail.com
 
 
