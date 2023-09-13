@@ -15,6 +15,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/Ricardo-H/count.svg)
 <!-- readme-typing-svg -->
 
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+
+
 ![&theme=tokyonight's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-H&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-H&hide_progress=true&theme=tokyonight)
